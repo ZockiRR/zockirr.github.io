@@ -1,1 +1,1 @@
-<script src="js/iframeResizer.contentWindow.min.js"></script>
+<p><script src="js/iframeResizer.contentWindow.min.js"></script></p>
