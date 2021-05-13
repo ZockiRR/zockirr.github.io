@@ -14,7 +14,7 @@ jobs:
         with:
           ref: ${{ github.head_ref }}
       - run: |
-          mkdir output
+          mkdir info/html
       - name: install pandoc
         run: sudo apt-get install pandoc
       - name: render markdowns
