@@ -1,5 +1,3 @@
-<script type="text/javascript" src="../../js/iframeResizer.contentWindow.min.js"></script> 
-
 # Berufe/Rollen
 <center>Stand: 04.05.2021</center>
 
