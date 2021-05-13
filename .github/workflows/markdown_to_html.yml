@@ -18,7 +18,7 @@ jobs:
       - name: install pandoc
         run: sudo apt-get install pandoc
       - name: render markdowns
-        run: for f in info/markdown/*.md ; do pandoc ${f} -f markdown_strict -t html5 -s -c github-markdown.css --self-contained -o info/html/$(basename ${f} .md).html ; echo $(basename ${f} .md).html ; done
+        run: for f in info/markdown/*.md ; do pandoc ${f} -f markdown_strict -t html5 -s -c github.css --self-contained --highlight-style=haddock -o info/html/$(basename ${f} .md).html ; echo $(basename ${f} .md).html ; done
       - uses: EndBug/add-and-commit@v7
         with:
           add: 'info/html'
