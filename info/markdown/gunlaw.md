@@ -1,5 +1,5 @@
 # **Waffengesetz**
-<center>Stand: 13.05.2021</center>
+<center>Stand: 14.05.2021</center>
 
 ## <center>**§1 Kontrolle**</center>
 1. Die Polizeibehörden dürfen Waffen sicherstellen oder beschlagnahmen.
@@ -12,11 +12,11 @@
 
 3. Werkzeuge gelten nicht als Waffe.
 
-4. Grundsätzlich sollen in der Stadt keine Waffen gezogen getragen werden. Bürger dürfen ihre Waffen zur eigenen Verteidigung mit sich führen. Bestimmte Berufe dürfen zusätzlich die für sie zugelassenen Waffen bei sich haben, solange die Tätigkeit ausgeübt wird, für die die Waffe zugelassen ist. 
+4. Grundsätzlich sollen in der Stadt keine Waffen in der Hand gehalten werden. *Bürger* dürfen ihre Waffen zur eigenen Verteidigung mit sich führen. Bestimmte Berufe dürfen zusätzlich die für sie zugelassenen Waffen bei sich haben, solange die Tätigkeit ausgeübt wird, für die die Waffe zugelassen ist. 
 
-5. Jede Waffe die man nicht führen oder besitzen darf muss angemeldet werden. Man darf maximal nur ein Waffenschein beantragen, sprich man darf somit eine Waffe führen oder besitzen die man im Normalfall nicht führen oder besitzen darf. Die Beantragung eines Waffenschein geschieht bei der Stadtverwaltung. Die Waffen erhalten eine ID und einen dazugehörigen Waffenschein. Der Waffenschein muss beim Führen der Waffe mitgeführt werden und bei einer polizeilichen Überprüfung ausgehändigt bzw. vorgezeigt werden.
+5. Jede Waffe, die über die Zulassung für die eigene Tätigkeit hinausgeht, muss angemeldet werden. Man darf maximal nur ein Waffenschein beantragen, sprich man darf somit nur eine Waffe führen oder besitzen die man im Normalfall nicht führen oder besitzen darf. Waffenscheine können beim Staatsanwalt oder direkt bei der Stadtverwaltung beantragt werden. Der Waffenschein enthält eine ID und einen konkreten Waffentyp und gilt nur für die Person auf die er angemeldet ist. Der Waffenschein muss beim Führen der Waffe mitgeführt werden und bei einer polizeilichen Überprüfung ausgehändigt bzw. vorgezeigt werden.
 
-6. Nachfoldend sind die Preise für den jeweiligen Waffenschein aufgelistet:
+6. Nachfolgend sind die Preise für den jeweiligen Waffenschein aufgelistet:
 
     | Schein           | Preis in Scrap| 
     |------------------|--------------:| 
@@ -29,7 +29,7 @@
     | Gewehr           | 1500$         | 
     | Schwere Waffe    | 2000$         | 
 
-7. Wer mit Waffen handelt oder ein geschäftliches Interesse verfolgt, darf diese nur in dafür vorgesehenen Räumlichkeiten lagern, handeln oder verkaufen. Sprich nur in Geschäftsräumen dürfen Waffen gelagert, verkauft oder gehandelt werden. In privaten Räumlichkeiten dürfen keine Waffen gelagert werden, wo ein geschäftliches Interesse dahinter steht. Dies gilt insbesondere für den Waffenhändler.
+7. Wer mit Waffen handelt oder ein geschäftliches Interesse verfolgt, darf diese nur in dafür vorgesehenen Räumlichkeiten lagern, handeln oder verkaufen. Sprich nur in Geschäftsräumen dürfen Waffen gelagert, verkauft oder gehandelt werden. In privaten Räumlichkeiten dürfen keine Waffen gelagert werden, wo ein geschäftliches Interesse dahintersteht. Dies gilt insbesondere für den Waffenhändler.
 8. Folgende Waffen sind generell Verboten und dürfen nur von der Polizei geführt oder besessen werden:
    - M249
    - L96 Gewehr
@@ -38,39 +38,39 @@
 
 ## <center>**§3 Führen einer Waffe**</center>
 
-1. Jeder ist nach Anmeldung bei der Polizei automatisch ein Brüger der Stadt. 
+1. Jeder ist nach Anmeldung bei der Polizei automatisch ein *Bürger* der Stadt. 
 2. Hat man einen beim Rathaus eingetragenen Beruf, so ist man zu Arbeitszeiten in dieser Rolle unterwegs und darf die für diesen Beruf vorgesehenen Waffen führen. Dies gilt aber explizit nur, wenn die Tätigkeit des Berufs auch ausgeübt wird. Üben man aktuell keine berufsbezogene Tätigkeit aus, so ist man als *Bürger* unterwegs und darf auch nur die Waffen führen, die für *Bürger* zugelassen sind.
-3. Der Besitz einer für den eingetragenen Beruf zugelassen Waffe ist nicht strafbar, auch wenn man als *Bürger* unterwegs ist. Sie dürfen auch im privaten Haus gelagert werden.
+3. Der Besitz einer für den eingetragenen Beruf zugelassenen Waffe ist nicht strafbar, auch wenn man als *Bürger* unterwegs ist. Sie dürfen auch im privaten Haus gelagert werden.
 
 ## <center>**§4 Zugelassene Waffen**</center>
 
-1. Nachfolgend werden die für Berufe und andere Gruppen zugelassenen Waffen gelistet. Die Zuordnung der Waffen in ihre Kategorien findet sich in [§5 Waffenkategorien](#center§5-waffenkategoriencenter).
+1. Nachfolgend werden die für Berufe und andere Gruppen zugelassenen Waffen gelistet. Die Zuordnung der Waffen in ihre Kategorien findet sich in §5 Waffenkategorien.
 
-2. Ein *Bürger* darf im allgemeinen und ohne weitere Zulassung folgende Waffenkategorien führen:
+2. Ein *Bürger* darf im Allgemeinen und ohne weitere Zulassung folgende Waffenkategorien führen:
     - Nahkampfwaffen
     - Handfeuerwaffen
     - Bögen
     - Schrotflinten
 
-   Davon explizit ausgenommen:
+    Davon explizit ausgenommen:
     - Compound Bow
     - Spas 12 Schrotflinte
     - Vorderschaftrepetierflinte
 
-3. Ein *Jäger* darf im allgemeinen und ohne weitere Zulassung folgende Waffenkategorien führen:
+3. Ein *Jäger* darf im Allgemeinen und ohne weitere Zulassung folgende Waffenkategorien führen:
     - Nahkampfwaffen
     - Handfeuerwaffen
     - Bögen
     - Schrotflinten
     - Gewehre
 
-   Davon explizit ausgenommen:
+    Davon explizit ausgenommen:
     - Spas 12 Schrotflinte
     - Halbautomatisches Gewehr
     - L96 Gewehr
     - M39 Gewehr
 
-4. Ein *Söldner* darf im allgemeinen und ohne weitere Zulassung folgende Waffenkategorien führen:
+4. Ein *Söldner* darf im Allgemeinen und ohne weitere Zulassung folgende Waffenkategorien führen:
     - Nahkampfwaffen
     - Handfeuerwaffen
     - Bögen
@@ -80,12 +80,12 @@
     - Sturmgewehre
     - Explosive Waffen
 
-   Davon explizit ausgenommen:
+    Davon explizit ausgenommen:
     - L96 Gewehr
     - C4
     - M39 Gewehr
 
-5. Ein *Polizist* darf im allgemeinen und ohne weitere Zulassung folgende Waffenkategorien führen:
+5. Ein *Polizist* darf im Allgemeinen und ohne weitere Zulassung folgende Waffenkategorien führen:
     - Nahkampfwaffen
     - Handfeuerwaffen
     - Bögen
@@ -97,7 +97,7 @@
     - Explosive Waffen
     - Unkategorisierte Waffen
 
-6. Ein *Waffenhändler* darf im allgemeinen und ohne weitere Zulassung folgende Waffenkategorien führen:
+6. Ein *Waffenhändler* darf im Allgemeinen und ohne weitere Zulassung folgende Waffenkategorien führen:
     - Nahkampfwaffen
     - Handfeuerwaffen
     - Bögen
@@ -107,17 +107,17 @@
     - Sturmgewehre
     - Explosive Waffen
 
-   Davon explizit ausgenommen:
+    Davon explizit ausgenommen:
     - L96 Gewehr
 
-7. Ein *Baumeister* darf im allgemeinen und ohne weitere Zulassung folgende Waffenkategorien führen:
+7. Ein *Baumeister* darf im Allgemeinen und ohne weitere Zulassung folgende Waffenkategorien führen:
     - Nahkampfwaffen
     - Handfeuerwaffen
     - Bögen
     - Schrotflinten
     - Explosive Waffen
 
-   Davon explizit ausgenommen:
+    Davon explizit ausgenommen:
     - Compound Bow
     - Spas 12 Schrotflinte
     - Vorderschaftrepetierflinte

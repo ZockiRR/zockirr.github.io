@@ -1,32 +1,31 @@
 # Berufe/Rollen
-<center>Stand: 04.05.2021</center>
+<center>Stand: 14.05.2021</center>
 
 Hier findet ihr alle bereits bestehenden sowie alle noch zu besetzenden Rollen.
-Jeder darf Vorschläge für neue Rollen machen bzw. fragen, ob er diese oder jene Rolle bespielen darf. Diese Liste wird mit der Zeit aktualisiert.
-Füllt bitte, bei Bedarf, einen Antrag im Unterforum "Register für Firmen/Geschäfte" aus.
+Jeder darf Vorschläge für neue Rollen machen bzw. kann versuchen diese oder jene Rolle bei der Stadtverwaltung anzumelden. Diese Liste wird mit der Zeit aktualisiert.
 
 ## Polizei
-> Geforce, Skorpion, Rafmon
-## Verkäufer jeglicher Art (Fisch, Fleisch, Sulfus, Baumarkt, Teestube usw. )
+> Ge-Force, Skorpion, Ravemoon
+## Verkäufer jeglicher Art (Fisch, Fleisch, Schwefel, Baumarkt, Teestube usw. )
 > Redmoon (Baumarkt), Daddy (Teestube),
 ## Fahrservice/Fahrschule/Taxiunternehmen
-> \-
-## Söldner (z.b. Aushilfe bei Bot Missionen usw.) 
+> Nin0
+## Söldner (z.B. Aushilfe bei PVE Missionen usw.) 
 > Zahikusa
 ## Farmer (Ressourcen oder auch Futter)
-> \-
+> Redmoom, Daddy
 ## Elektriker
->ZockiRR, (Ge-Force-Lehrling)
+> ZockiRR, (Ge-Force - Lehrling)
 ## Rechtsanwalt
->Daddy
+> Daddy
 ## Jäger
 > \-
 ## Fluglehrer/Flugservice
->ZockiRR
+> ZockiRR
 ## Blueprint Verkäufer
 > \-
 ## Bewohner
-> \-
+> Gnampf
 ## Richter
 > Tsubasa
 ## Stadtverwaltung
@@ -34,6 +33,8 @@ Füllt bitte, bei Bedarf, einen Antrag im Unterforum "Register für Firmen/Gesch
 ## Chemiker
 > \-
 ## Waffenhändler
-> Nino, Daddy
-## Arzt/Sanitäter
-> Laserlutz
+> Nin0, (Daddy - Verbindung zur Stadtverwaltung)
+## Arzt/Sanitäter, Krankenpfleger
+> Laserlutz, la_miva
+## Künstler
+> la_miva
